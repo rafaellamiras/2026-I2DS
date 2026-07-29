@@ -1,0 +1,14 @@
+/Users/DS1/Documents/2026-I2DS/Aula-01/PrimeirProjeto/bin/Debug/net10.0/PrimeirProjeto
+/Users/DS1/Documents/2026-I2DS/Aula-01/PrimeirProjeto/bin/Debug/net10.0/PrimeirProjeto.deps.json
+/Users/DS1/Documents/2026-I2DS/Aula-01/PrimeirProjeto/bin/Debug/net10.0/PrimeirProjeto.runtimeconfig.json
+/Users/DS1/Documents/2026-I2DS/Aula-01/PrimeirProjeto/bin/Debug/net10.0/PrimeirProjeto.dll
+/Users/DS1/Documents/2026-I2DS/Aula-01/PrimeirProjeto/bin/Debug/net10.0/PrimeirProjeto.pdb
+/Users/DS1/Documents/2026-I2DS/Aula-01/PrimeirProjeto/obj/Debug/net10.0/PrimeirProjeto.GeneratedMSBuildEditorConfig.editorconfig
+/Users/DS1/Documents/2026-I2DS/Aula-01/PrimeirProjeto/obj/Debug/net10.0/PrimeirProjeto.AssemblyInfoInputs.cache
+/Users/DS1/Documents/2026-I2DS/Aula-01/PrimeirProjeto/obj/Debug/net10.0/PrimeirProjeto.AssemblyInfo.cs
+/Users/DS1/Documents/2026-I2DS/Aula-01/PrimeirProjeto/obj/Debug/net10.0/PrimeirProjeto.csproj.CoreCompileInputs.cache
+/Users/DS1/Documents/2026-I2DS/Aula-01/PrimeirProjeto/obj/Debug/net10.0/PrimeirProjeto.dll
+/Users/DS1/Documents/2026-I2DS/Aula-01/PrimeirProjeto/obj/Debug/net10.0/refint/PrimeirProjeto.dll
+/Users/DS1/Documents/2026-I2DS/Aula-01/PrimeirProjeto/obj/Debug/net10.0/PrimeirProjeto.pdb
+/Users/DS1/Documents/2026-I2DS/Aula-01/PrimeirProjeto/obj/Debug/net10.0/PrimeirProjeto.genruntimeconfig.cache
+/Users/DS1/Documents/2026-I2DS/Aula-01/PrimeirProjeto/obj/Debug/net10.0/ref/PrimeirProjeto.dll
