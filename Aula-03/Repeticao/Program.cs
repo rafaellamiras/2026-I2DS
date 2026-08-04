@@ -56,6 +56,8 @@ int num;
         {
             Console.Write("Digite um Numero Positivo: ");
             num = int.Parse(Console.ReadLine());
-        }while(num <=0);
+        }while(num <= 0);
+
+
     }
 }
