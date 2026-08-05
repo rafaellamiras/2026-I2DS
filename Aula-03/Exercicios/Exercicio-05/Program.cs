@@ -1,26 +1,45 @@
-﻿using System.Runtime.CompilerServices;
-
-internal partial class Program
+﻿internal class Program
 {
     private static void Main(string[] args)
     {
- string[] produtos = new string[5];
-double[] precos = new double[5];
+        
+        string produto;;
+        string preco;
+        string encontrar;
 
-for (int i = 0; i < 5; i++)
-{
-    Console.Write("Digite o produto: ");
-    produtos[i] = Console.ReadLine();
+       Console.WriteLine("Cadastrar produtos!");
 
-    Console.Write("Digite o preço: ");
-    precos[i] = double.Parse(Console.ReadLine());
-}
+       Console.WriteLine("Produto: ");
+        produto = Console.ReadLine();
 
-for (int i = 0; i < 5; i++)
-{
-    Console.WriteLine($"{produtos[i]} - R$ {precos[i]}");
-}
-Console.Write("Digite o produto que deseja pesquisar: ");
-        string pesquisa = Console.ReadLine();
-    }
-}
+        Console.WriteLine("Preços: ");
+        preco = Console.ReadLine();
+
+        string[] listaProdutos = {" ", " ", " ", " ", "  "}; 
+        string[] precoProdutos = {" ", " ", " ", " ", "  "};
+
+        for (int i = 0; i < listaProdutos.Length; i++)
+        {
+        Console.WriteLine("Produto: ");
+        produto = Console.ReadLine();
+
+        Console.WriteLine("Preços: ");
+        preco = Console.ReadLine();
+
+        listaProdutos[i] = produto;
+        precoProdutos[i] = preco;
+        }
+        Console.WriteLine("Produtos cadatrados com sucesso!");
+
+        Console.WriteLine("Digite o produto para encontra-lo: ");
+        encontrar = Console.ReadLine();
+
+
+        for (int i = 0; i < listaProdutos.Length; i++) 
+        { if (listaProdutos[i] == encontrar) 
+        {
+        Console.WriteLine("Produto encontrado!"); 
+        Console.WriteLine("Produto: " + listaProdutos[i]);
+        Console.WriteLine("Preço: " + precoProdutos[i]);
+        } }
+    }}
